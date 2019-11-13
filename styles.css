@@ -67,7 +67,7 @@ hr{
 
 .gallery-item:hover .middle {
         opacity: 1;
-        
+}       
 
 .gallery-item:hover {
         box-shadow: 0 10px 20px  rgba(0, 0, 0, 0.8);
@@ -78,6 +78,7 @@ hr{
         padding: 16px 32px;
         font-family: Oswald, sans-serif;
         text-align: left;
+}
     
 @media (max-width: 500px) {
         .gallery-item,
