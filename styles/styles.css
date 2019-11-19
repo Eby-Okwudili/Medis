@@ -35,7 +35,7 @@ hr{
 
 .gallery {
         display: grid;
-        grid-template-columns: repea(auto-fit,
+        grid-template-columns: repeat(auto-fit,
         minmax(300px, 1fr));
         grid-gap: 1.5rem;
         grid-auto-rows: minmax(150px, auto);
